@@ -1,4 +1,4 @@
-# List of all types of charts:
+# List of all chart types:
 
 | Chart Type       | Description                              |
 | ---------------- | ---------------------------------------- |
