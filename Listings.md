@@ -1,3 +1,5 @@
+# List of all types of charts:
+
 | Chart Type       | Description                              |
 | ---------------- | ---------------------------------------- |
 | 📊 Bar Chart     | Compare quantities across categories     |
