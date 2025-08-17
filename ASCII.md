@@ -1,4 +1,4 @@
-Sales:
+# Sales:
 Jan:  ████ 40
 
 Feb:  ███████ 70
