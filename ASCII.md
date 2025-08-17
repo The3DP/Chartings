@@ -1,6 +1,8 @@
 Sales:
 Jan:  ████ 40
+
 Feb:  ███████ 70
+
 Mar:  ██████ 60
 
 # About ASCII Charts
